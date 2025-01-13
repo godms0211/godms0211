@@ -1,6 +1,6 @@
 c = input()
-a = int(input())
-b = int(input())
+a = float(input())
+b = float(input())
 
 print(c)
 print("%.2f", %a)
